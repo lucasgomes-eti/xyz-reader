@@ -1,0 +1,14 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="card_resting_elevation">1dp</dimen>
+    <dimen name="card_press_translation_z">8dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="action_bar_size">56dp</dimen>
+    <dimen name="detail_image_size">240dp</dimen>
+    <dimen name="detai_iImage_content_pading">240dp</dimen>
+</resources>
