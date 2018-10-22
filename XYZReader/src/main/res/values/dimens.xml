@@ -10,5 +10,5 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="action_bar_size">56dp</dimen>
     <dimen name="detail_image_size">240dp</dimen>
-    <dimen name="detai_iImage_content_pading">240dp</dimen>
+    <dimen name="detai_image_content_pading">240dp</dimen>
 </resources>

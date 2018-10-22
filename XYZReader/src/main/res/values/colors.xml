@@ -20,8 +20,8 @@
     <color name="primaryLightColor">#768fff</color>
     <color name="primaryDarkColor">#0039cb</color>
     <color name="primaryTextColor">#ffffff</color>
-    <color name="secondaryTextColor">#6000</color>
+    <color name="secondaryTextColor">#66000000</color>
     <color name="primaryDarkTextColor">#333333</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgray">#e0e0e0</color>
     <color name="photo_placeholder">#ccc</color>
 </resources>
